@@ -1,6 +1,6 @@
-# ListsExample
+# 193153 Nikola Lazarevski
 
-A new Flutter project.
+Mobilni Informaciski Sistemi Labs 3, 4 and 5
 
 ## Getting Started
 
